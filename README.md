@@ -4,8 +4,8 @@
 
 🛠️ Technologies & Tools
 - Languages: Python, Java, C++, JavaScript
-Frameworks: TensorFlow, PyTorch
-Tools: Git
+- Frameworks: TensorFlow, PyTorch
+- Tools: Git
 
 <!---
 j-convey/j-convey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
