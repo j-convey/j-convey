@@ -1,5 +1,5 @@
 👋 Hi, I’m @j-convey
-- 🎓 Senior Computer Science Student at Utah Valley University
+- 🎓 Bachelor of Science in Computer Science from Utah Valley University
 - 🔍 Specializing in: Software Development, Machine Learning, Web Development
 
 🛠️ Technologies & Tools
